@@ -1,4 +1,4 @@
-# NJNU_Passport_Inquiry
+# NJNU_Passport_Inquiry 南师大证件照查看器
 A little python GUI program to inquire passport of NJNU.
 
 输入学号即可查看对应的证件照，最近4，5届的应该都有。
